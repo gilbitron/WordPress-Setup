@@ -4,6 +4,8 @@ WordPress Setup is a script you can literally drop into your development environ
 automatically download the latest version of WordPress and create the database for you, so you can skip straight
 on to installing WordPress.
 
+[Watch the Demo](http://screenr.com/P65)
+
 ## Requirements
 
 * PHP 5 or greater
