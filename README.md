@@ -1,3 +1,5 @@
+### This repo is no longer maintained. If you would like to take over ownership please [get in touch](mailto:gilbert@pellegrom.me).
+
 #WordPress Setup
 
 WordPress Setup is a script you can literally drop into your development environment (or live setup) that will, once run, 
