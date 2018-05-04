@@ -1,6 +1,6 @@
-### This repo is no longer maintained. If you would like to take over ownership please [get in touch](mailto:gilbert@pellegrom.me).
+### This repo is no longer maintained. If you would like to take over ownership please [get in touch](mailto:&#103;&#105;&#108;&#098;&#101;&#114;&#116;&#064;&#112;&#101;&#108;&#108;&#101;&#103;&#114;&#111;&#109;&#046;&#109;&#101;).
 
-#WordPress Setup
+# WordPress Setup
 
 WordPress Setup is a script you can literally drop into your development environment (or live setup) that will, once run, 
 automatically download the latest version of WordPress and create the database for you, so you can skip straight
